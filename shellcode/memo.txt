@@ -1,0 +1,4 @@
+helloworld.c -> gcc -m32 
+helloworld.asm -> nasm -f elf 
+helloworld.o -> ld -m elf_i386
+
